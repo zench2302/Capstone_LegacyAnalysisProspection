@@ -11,13 +11,13 @@ This project, conducted in collaboration with **LSE Philanthropy and Global Enga
 
 **Key Visuals** 
 <figure>
+  <figcaption align="center"><b>图 1：ROC Curve of Fine-tuned Models Using Random Search</b></figcaption><br>
   <img src="https://github.com/user-attachments/assets/c2d43eb3-3cd8-4cca-9428-ce59849efb17" width="600"><br>
-  <figcaption align="center">1.ROC Curve of Fine-tuned Models Using Random Search</figcaption>
 </figure>
 
 <figure>
+   <figcaption align="center">2.Top 10 XGBoost Feature Importances (Random Search) </figcaption>
   <img src="https://github.com/user-attachments/assets/8615ac82-8461-4524-bc24-d0b4206ec197" width="600"><br>
-  <figcaption align="center">2.Top 10 XGBoost Feature Importances (Random Search) </figcaption>
 </figure>
 
 
