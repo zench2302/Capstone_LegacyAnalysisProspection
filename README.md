@@ -12,7 +12,7 @@ This project, conducted in collaboration with **LSE Philanthropy and Global Enga
 **Key Visuals** 
 <figure>
   <figcaption align="center"><b>1：ROC Curve of Fine-tuned Models Using Random Search</b></figcaption><br>
-  <img src="https://github.com/user-attachments/assets/c2d43eb3-3cd8-4cca-9428-ce59849efb17" width="600"><br>
+  <img src="https://github.com/user-attachments/assets/c2d43eb3-3cd8-4cca-9428-ce59849efb17" width="600"><br><br>
 </figure>
 
 <figure>
