@@ -6,6 +6,8 @@ This project, conducted in collaboration with **LSE Philanthropy and Global Enga
 - Traditional models: logistic regression with/without L1, Decision Trees, Random Forest 
 - Unsupervised learning: Factor Analysis, Cluster Analsis
 
+# Pipeline & Key Visuals
+
 # Highlights
 - **Consistent giving behavior** and **total donation amount** in other categories are the strongest predictors of legacy donation.
 
@@ -13,7 +15,7 @@ This project, conducted in collaboration with **LSE Philanthropy and Global Enga
 
 - **Gradient-boosting models** (GBDT, XGBoost) provided the best predictive performance, confirming and extending insights from logistic regression and traditional tree models.
 
-## Recommendations:
+# Recommendations
 - Apply predictive scoring to **identify high-propensity alumni** and focus outreach resources where impact is greatest.
 
 - Use model insights to **design targeted marketing campaigns**, highlighting engagement opportunities most likely to convert interested donors into legacy pledgers.
