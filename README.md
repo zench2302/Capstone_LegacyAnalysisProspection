@@ -8,6 +8,11 @@ This project, conducted in collaboration with **LSE Philanthropy and Global Enga
 
 # Pipeline & Key Visuals
 
+
+
+<img width="1578" height="1160" alt="image" src="https://github.com/user-attachments/assets/c2d43eb3-3cd8-4cca-9428-ce59849efb17" />
+
+
 # Highlights
 - **Consistent giving behavior** and **total donation amount** in other categories are the strongest predictors of legacy donation.
 
