@@ -12,6 +12,11 @@ This project, conducted in collaboration with **LSE Philanthropy and Global Enga
 
 <img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c2d43eb3-3cd8-4cca-9428-ce59849efb17" />
 
+<figure>
+  <img src="https://github.com/user-attachments/assets/c2d43eb3-3cd8-4cca-9428-ce59849efb17" width="500">
+  <figcaption>ROC Curve of Fine-tuned Models</figcaption>
+</figure>
+
 
 # Highlights
 - **Consistent giving behavior** and **total donation amount** in other categories are the strongest predictors of legacy donation.
