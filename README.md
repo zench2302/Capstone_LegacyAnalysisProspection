@@ -10,7 +10,7 @@ This project, conducted in collaboration with **LSE Philanthropy and Global Enga
 
 
 
-<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/c2d43eb3-3cd8-4cca-9428-ce59849efb17" />
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/c2d43eb3-3cd8-4cca-9428-ce59849efb17" />
 
 
 # Highlights
