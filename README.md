@@ -14,6 +14,7 @@ This project, conducted in collaboration with **LSE Philanthropy and Global Enga
   <figcaption> ROC Curve of Fine-tuned Models Using Random Search </figcaption>
 </figure>
 
+![ROC Curve of Fine-tuned Models Using Random Search](https://github.com/user-attachments/assets/c2d43eb3-3cd8-4cca-9428-ce59849efb17)
 
 # Highlights
 - **Consistent giving behavior** and **total donation amount** in other categories are the strongest predictors of legacy donation.
