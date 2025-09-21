@@ -9,6 +9,9 @@ This project, conducted in collaboration with **LSE Philanthropy and Global Enga
 # Pipeline & Key Visuals
 **Pipeline**
 
+<img width="500" height="450" alt="image" src="https://github.com/user-attachments/assets/98e77c78-5866-4564-b014-f0c3040ae2e4" />
+
+
 **Key Visuals** 
 <figure>
   <figcaption align="center"><b>1：ROC Curve of Fine-tuned Models Using Random Search</b></figcaption><br>
